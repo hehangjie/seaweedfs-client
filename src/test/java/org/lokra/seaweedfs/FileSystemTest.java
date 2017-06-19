@@ -35,7 +35,7 @@ public class FileSystemTest {
 
     static {
         fileSource = new FileSource();
-        fileSource.setHost("0.0.0.0");
+        fileSource.setHost("weedfs");
         fileSource.setPort(9333);
     }
 
